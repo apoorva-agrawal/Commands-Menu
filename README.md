@@ -25,8 +25,10 @@ Following steps will help you in setting up the environment for smooth run of th
 #### Linux system:
 Step1: copy the code in script.py in cgi-bin folder. Then make it executable by running following command.
 ```$ chmod +x script.py```
+
 Step 2: Install termcolor for beautifying text with colors
 ``` $ pip install termcolor```
+
 Step 3: running it with python3
 ``` $python3 script.py```
 
